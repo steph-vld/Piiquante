@@ -1,0 +1,6 @@
+Après avoir cloné le repo, depuis le dossier front ouvrez le terminal et exécutez "npm run start". 
+Le front doit tourner sur le port 4200.
+
+Puis ouvrez le dossier backend dans un editeur et lancer "node server" dans le terminal.
+Vous pourrez ensuite utiliser "nodemon server" après avoir installé tous les modules se trouvants dans le fichier package.json.
+Le back tourne sur le port 3000.
